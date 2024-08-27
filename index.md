@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "AiChatHelper官方文档"
+  text: "一个各类 AI 的微信助手反向代理"
+  tagline: 不要为了越狱放弃升级的快乐！
   actions:
     - theme: brand
       text: Markdown Examples
@@ -13,13 +13,18 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-
+  image:
+    src: /logo.png
+    alt: AiChatHelper
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🚀
+    title: 简单
+    details: 简单部署
+  - icon: 😃
+    title: 易用
+    details: 功能丰富，兼容性强
+  - icon: 🛡️
+    title: 安全
+    details: 隐私安全，内容安全
 ---
 
